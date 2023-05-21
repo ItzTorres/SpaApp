@@ -1,3 +1,9 @@
+/*
+ * MainActivity.kt
+ * Created by Itz Torres on 21/5/23 00:35
+ * Copyright. All rights reserved.
+ */
+
 package com.example.spaapp
 
 import androidx.appcompat.app.AppCompatActivity
