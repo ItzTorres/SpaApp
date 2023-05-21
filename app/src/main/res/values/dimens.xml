@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ dimens.xml
+  ~ Created by Itz Torres on 21/5/23 02:04
+  ~ Copyright. All rights reserved.
+  -->
+
+<resources>
+    <dimen name="dime_0">0dp</dimen>
+    <dimen name="dime_20">20dp</dimen>
+    <dimen name="dime_26">26dp</dimen>
+    <dimen name="dime_30">30dp</dimen>
+    <dimen name="dime_60">60dp</dimen>
+    <dimen name="dime_90">90dp</dimen>
+    <dimen name="dime_120">120dp</dimen>
+</resources>
